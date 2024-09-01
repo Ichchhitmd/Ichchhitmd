@@ -16,12 +16,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="height:28px;"/>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ichchhitmd&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=PAT_TOKEN alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichchhitmd&layout=compact&theme=radical&token=PAT_TOKEN" alt="Top Languages" />
-</p>
-
 
 <h3 align="center">About Me</h3>
 <p align="center">
