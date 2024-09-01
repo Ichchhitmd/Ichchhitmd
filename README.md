@@ -19,10 +19,10 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOwGchAzwKzb0fj9a/giphy.gif" width="50">
-  I'm a passionate developer who loves coding, learning new technologies, and building awesome projects. When I'm not coding, you'll find me exploring the latest tech trends, binge-watching my favorite series, or playing video games. I'm also really into sports and love staying active!
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50">
+  I'm a passionate developer who loves coding, learning new technologies, and building awesome projects. When I'm not coding, you'll find me exploring the latest tech trends, binge-watching my favorite series, playing video games, or staying active with sports!
 </p>
+
 
 
 
