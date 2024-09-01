@@ -18,10 +18,12 @@
 
 
 <h3 align="center">About Me</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50">
-  I'm a passionate developer who loves coding, learning new technologies, and building awesome projects. When I'm not coding, you'll find me exploring the latest tech trends, binge-watching my favorite series, playing video games, or staying active with sports!
-</p>
+<div align="center" style="background-image: url('https://gratisography.com/wp-content/uploads/2024/01/gratisography-cyber-kitty-800x525.jpg'); background-size: cover; padding: 20px; border-radius: 10px; max-width: 800px; margin: auto;">
+  <p style="color: white; font-size: 18px;">
+    I'm a passionate developer who loves coding, learning new technologies, and building awesome projects. When I'm not coding, you'll find me exploring the latest tech trends, binge-watching my favorite series, playing video games, or staying active with sports!
+  </p>
+</div>
+
 
 
 
