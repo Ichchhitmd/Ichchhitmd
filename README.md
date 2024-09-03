@@ -44,18 +44,6 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ichchhitmd&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ichchhitmd&theme=radical" alt="GitHub Streak" style="max-width: 100%;"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichchhitmd&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%;"/>
-</div>
-
----
 
 <h3 align="center">Fun Facts</h3>
 <ul align="center">
