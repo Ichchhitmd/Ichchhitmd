@@ -16,7 +16,7 @@
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="height:28px;"/>
+  <img src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://w7.pngwing.com/pngs/160/708/png-transparent-javascript-logo-javascript-logo-language-algorithm-app-3d-icon-thumbnail.png)" alt="JavaScript" style="height:28px;"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="height:28px;"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="height:28px;"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="height:28px;"/>
