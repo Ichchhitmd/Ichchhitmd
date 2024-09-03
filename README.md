@@ -16,12 +16,12 @@
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=FFD700&color=black" alt="JavaScript" style="height:28px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.3));"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=black" alt="React" style="height:28px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.3));"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933&color=black" alt="Node.js" style="height:28px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.3));"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000&color=black" alt="Next.js" style="height:28px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.3));"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC&color=black" alt="Tailwind CSS" style="height:28px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.3));"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB&color=black" alt="React Native" style="height:28px; filter: drop-shadow(3px 3px 3px rgba(0,0,0,0.3));"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height:60px;"/>
+  <img src="https://example.com/3d-react-logo.png" alt="React" style="height:60px;"/>
+  <img src="https://example.com/3d-nodejs-logo.png" alt="Node.js" style="height:60px;"/>
+  <img src="https://example.com/3d-nextjs-logo.png" alt="Next.js" style="height:60px;"/>
+  <img src="https://example.com/3d-tailwind-logo.png" alt="Tailwind CSS" style="height:60px;"/>
+  <img src="https://example.com/3d-react-native-logo.png" alt="React Native" style="height:60px;"/>
 </p>
 
 
