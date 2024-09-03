@@ -17,11 +17,10 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height:60px;"/>
-  <img src="https://example.com/3d-react-logo.png" alt="React" style="height:60px;"/>
-  <img src="https://example.com/3d-nodejs-logo.png" alt="Node.js" style="height:60px;"/>
-  <img src="https://example.com/3d-nextjs-logo.png" alt="Next.js" style="height:60px;"/>
-  <img src="https://example.com/3d-tailwind-logo.png" alt="Tailwind CSS" style="height:60px;"/>
-  <img src="https://example.com/3d-react-native-logo.png" alt="React Native" style="height:60px;"/>
+  <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" style="height:60px;"/>
+  <img src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo.png" alt="Next.js" style="height:60px;"/>
+  <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind CSS" style="height:60px;"/>
+  <img src="https://www.technology4u.in/wp-content/uploads/2021/07/react-native.png" alt="React Native" style="height:60px;"/>
 </p>
 
 
