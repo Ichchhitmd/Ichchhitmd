@@ -15,7 +15,7 @@
 ---
 
 <h3 align="center">Tech Stack</h3>
-<p align="center" style="display: flex, flex-direction: row", gap: 20px">
+<p align="center" style="display: flex, flex-direction: row", gap: 30px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height:60px;"/>
   <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" style="height:60px;"/>
   <img src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo.png" alt="Next.js" style="height:60px;"/>
