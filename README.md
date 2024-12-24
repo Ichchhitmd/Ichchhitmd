@@ -4,7 +4,7 @@
   I'm Ichchhit.
 </h1>
 <h3 align="center">
-  A passionate Fullstack Developer 🚀
+  A passionate Frontend Developer 🚀
 </h3>
 
 <p align="center">
