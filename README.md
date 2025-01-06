@@ -51,5 +51,5 @@
 </ul>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3og0IWkocQ1AGddO2w/giphy.gif" width="50px"/>
+  <img src="https://giphy.com/gifs/spongebob-season-2-spongebob-squarepants-3oxOCqY7aKRESAP26s" width="50px"/>
 </p>
