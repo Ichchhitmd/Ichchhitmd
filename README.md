@@ -90,117 +90,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ichchhitmd&theme=algolia&no-frame=true&column=7&margin-w=15" alt="trophy" />
 </div>
 
-<!-- PROJECTS SHOWCASE -->
-<h2 align="center">🔥 Featured Projects</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 1</h3>
-        <div align="center">
-          <a href="https://github.com/Ichchhitmd" target="_blank">
-            <img src="/api/placeholder/450/200" alt="Project 1"/>
-          </a>
-          <br>
-          <p>
-            <a href="https://github.com/Ichchhitmd" target="_blank">
-              <img src="https://img.shields.io/badge/Code-333333?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>  
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00B9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>React, Next.js, Tailwind CSS</strong> - Responsive web application with modern UI and exceptional performance.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 2</h3>
-        <div align="center">
-          <a href="https://github.com/Ichchhitmd" target="_blank">
-            <img src="/api/placeholder/450/200" alt="Project 2" />
-          </a>
-          <br>
-          <p>
-            <a href="https://github.com/Ichchhitmd" target="_blank">
-              <img src="https://img.shields.io/badge/Code-333333?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00B9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>React Native, Firebase</strong> - Cross-platform mobile application with real-time data synchronization.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 3</h3>
-        <div align="center">
-          <a href="https://github.com/Ichchhitmd" target="_blank">
-            <img src="/api/placeholder/450/200" alt="Project 3" />
-          </a>
-          <br>
-          <p>
-            <a href="https://github.com/Ichchhitmd" target="_blank">
-              <img src="https://img.shields.io/badge/Code-333333?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00B9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>TypeScript, Next.js, Redux</strong> - Enterprise-level web application with state management.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 4</h3>
-        <div align="center">
-          <a href="https://github.com/Ichchhitmd" target="_blank">
-            <img src="/api/placeholder/450/200" alt="Project 4" />
-          </a>
-          <br>
-          <p>
-            <a href="https://github.com/Ichchhitmd" target="_blank">
-              <img src="https://img.shields.io/badge/Code-333333?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00B9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>React, Tailwind CSS, Firebase</strong> - Interactive dashboard with authentication and data visualization.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- SKILL PROGRESSION -->
-<h2 align="center">🌟 Skill Progression</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichchhitmd&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-      </td>
-      <td>
-        <div>
-          <p>⭐ JavaScript & React: Advanced</p>
-          <img src="https://progress-bar.dev/90/" width="300">
-          
-          <p>⭐ Next.js & TypeScript: Proficient</p>
-          <img src="https://progress-bar.dev/80/" width="300">
-          
-          <p>⭐ React Native: Intermediate</p>
-          <img src="https://progress-bar.dev/75/" width="300">
-          
-          <p>⭐ Tailwind CSS & UI Design: Advanced</p>
-          <img src="https://progress-bar.dev/85/" width="300">
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- CODING ACTIVITY -->
 <h2 align="center">⏱️ Weekly Coding Stats</h2>
@@ -217,40 +107,6 @@ CSS/Tailwind  ████░░░░░░░░░░░░░░   20.20%
 
 </div>
 
-<!-- ACHIEVEMENTS AND LEARNING -->
-<h2 align="center">🏆 Achievements & Continuous Learning</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="/api/placeholder/80/80" width="80px" alt="Achievement 1"/>
-        <br />
-        <sub><b>100+ Projects</b></sub>
-      </td>
-      <td align="center">
-        <img src="/api/placeholder/80/80" width="80px" alt="Achievement 2"/>
-        <br />
-        <sub><b>50+ Star Repos</b></sub>
-      </td>
-      <td align="center">
-        <img src="/api/placeholder/80/80" width="80px" alt="Achievement 3"/>
-        <br />
-        <sub><b>Open Source</b></sub>
-      </td>
-      <td align="center">
-        <img src="/api/placeholder/80/80" width="80px" alt="Achievement 4"/>
-        <br />
-        <sub><b>Hackathon Winner</b></sub>
-      </td>
-      <td align="center">
-        <img src="/api/placeholder/80/80" width="80px" alt="Achievement 5"/>
-        <br />
-        <sub><b>Tech Blogger</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- FUN FACTS -->
 <div align="center">
@@ -294,10 +150,10 @@ CSS/Tailwind  ████░░░░░░░░░░░░░░   20.20%
         <h3>Top Coding Tracks:</h3>
         <ol align="left">
           <li>Lofi Hip Hop Mix</li>
-          <li>Synthwave Outrun</li>
-          <li>Ambient Concentration</li>
-          <li>Epic Programming Music</li>
-          <li>Deep Focus Instrumental</li>
+          <li>Laufey</li>
+          <li>Billie Ellish</li>
+          <li>Arctic Monkeys</li>
+          <li>Purna Rai</li>
         </ol>
       </td>
     </tr>
@@ -328,15 +184,6 @@ CSS/Tailwind  ████░░░░░░░░░░░░░░   20.20%
   </a>
 </div>
 
-<!-- SUPPORT SECTION -->
-<div align="center">
-  <h2>☕ Support My Work</h2>
-  <p>If you find my projects helpful or interesting, consider buying me a coffee!</p>
-  <a href="https://www.buymeacoffee.com/">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</div>
-
 <!-- FOOTER WITH WAVE ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
@@ -345,24 +192,5 @@ CSS/Tailwind  ████░░░░░░░░░░░░░░   20.20%
   </p>
 </div>
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<div align="center">
-  <img src="/api/placeholder/800/120" alt="Snake eating contribution graph" width="800px"/>
-</div>
-
-<!-- VISITOR COUNTER BADGE -->
-<div align="center">
-  <p>Thanks for visiting my profile! Have a great day! 👋</p>
-  
-  ![](https://visitor-badge.glitch.me/badge?page_id=Ichchhitmd.Ichchhitmd)
-</div>
-
-
-.___       .__         .__         .__    .__    .___  __   
-|   | ____ |  |__  ____|  |__  ____|  |__ |__|__ |  |_/  |_ 
-|   |/ ___\|  |  \/ ___\  |  \/ __ \  |  \|  |  \|  |\   __\
-|   \  \___|   Y  \  \___|   Y  ___/   Y  \  |  /|  |_|  |  
-|___|\___  >___|  /\___  >___|  \__\>___|  /__|  \____/__|  
-         \/     \/     \/     \/       \/                   
 
 
