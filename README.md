@@ -127,7 +127,7 @@ CSS/Tailwind  ████░░░░░░░░░░░░░░   20.20%
       <td width="50%">
         <h3>Top Coding Tracks:</h3>
         <ol align="left">
-          <li>Lofi Hip Hop Mix</li>
+          <li>Lofi</li>
           <li>Laufey</li>
           <li>Billie Ellish</li>
           <li>Arctic Monkeys</li>
