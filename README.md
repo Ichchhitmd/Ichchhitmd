@@ -73,22 +73,6 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   </p>
 
-  <!-- ANIMATED STATS SECTION -->
-  <h2>📊 GitHub Analytics</h2>
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ichchhitmd&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Ichchhit's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ichchhitmd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Ichchhitmd&theme=algolia&no-frame=true&column=7&margin-w=15" alt="trophy" />
-</div>
 
 
 
@@ -130,12 +114,6 @@ CSS/Tailwind  ████░░░░░░░░░░░░░░   20.20%
   </table>
 </div>
 
-<!-- CONTRIBUTIONS -->
-<h2 align="center">🟩 Contribution Calendar</h2>
-
-<div align="center">
-  <img src="/api/placeholder/800/120" alt="GitHub Contribution Calendar" width="800px"/>
-</div>
 
 <!-- MUSIC WHILE CODING -->
 <h2 align="center">🎵 Current Coding Playlist</h2>
