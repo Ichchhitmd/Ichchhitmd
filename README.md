@@ -28,10 +28,6 @@
   <div style="border: 2px solid #6A5ACD; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(106, 90, 205, 0.1) 0%, rgba(72, 61, 139, 0.1) 100%);">
     <h2>🚀 About Me</h2>
 
-```
-"The best way to predict the future is to invent it." - Alan Kay
-```
-
   <p align="left">
     I'm a passionate frontend developer with a knack for crafting beautiful, responsive, and intuitive user interfaces. My journey in web development is fueled by curiosity and a constant drive to master emerging technologies. From transforming complex design concepts into clean, efficient code to optimizing user experiences across platforms, I thrive on turning digital challenges into elegant solutions.
   </p>
