@@ -118,7 +118,7 @@ CSS/Tailwind  ████░░░░░░░░░░░░░░   20.20%
   <table>
     <tr>
       <td width="50%">
-        <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_Green.png" alt="Music Player" width="100%"/>
+        <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_Green.png" alt="Music Player" width="30%"/>
       </td>
       <td width="50%">
         <h3>Top Coding Tracks:</h3>
