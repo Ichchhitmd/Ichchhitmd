@@ -66,24 +66,6 @@
   </p>
 
 
-
-
-<!-- CODING ACTIVITY -->
-<h2 align="center">⏱️ Weekly Coding Stats</h2>
-
-<div align="center">
-  
-```text
-JavaScript    █████████████░░░░░   65.25%
-React         ████████░░░░░░░░░░   40.15%
-TypeScript    ██████░░░░░░░░░░░░   30.45%
-Next.js       █████░░░░░░░░░░░░░   25.35%
-CSS/Tailwind  ████░░░░░░░░░░░░░░   20.20%
-```
-
-</div>
-
-
 <!-- FUN FACTS -->
 <div align="center">
   <h2>🎮 Fun Facts</h2>
