@@ -23,11 +23,7 @@
   
   <br>
 
-  <!-- ANIMATED BANNER -->
-  <img src="/api/placeholder/800/250" alt="Banner Image" width="800px"/>
-  
-  <br>
-
+ 
   <!-- ABOUT ME SECTION WITH ANIMATED BORDER -->
   <div style="border: 2px solid #6A5ACD; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, rgba(106, 90, 205, 0.1) 0%, rgba(72, 61, 139, 0.1) 100%);">
     <h2>🚀 About Me</h2>
@@ -122,7 +118,7 @@ CSS/Tailwind  ████░░░░░░░░░░░░░░   20.20%
   <table>
     <tr>
       <td width="50%">
-        <img src="/api/placeholder/400/200" alt="Music Player" width="100%"/>
+        <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_Green.png" alt="Music Player" width="100%"/>
       </td>
       <td width="50%">
         <h3>Top Coding Tracks:</h3>
