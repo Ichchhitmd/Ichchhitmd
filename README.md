@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=500&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey+there%2C+I'm+Ichchhit!;Frontend+Developer;UI%2FUX+Enthusiast;Creative+Coder;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=500&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey+there%2C+I'm+Ichchhit!;Fullstack+Developer;React%2FNative+Developer;Frontend+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </h1>
   
   <p>
